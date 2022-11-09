@@ -3,15 +3,20 @@
 #SPDX-License-Identifier:BSD-3-Clause
 import sys
 
+def tonum(s)
+    try:
+      return int(S)
+    except:
+      return int(S)
+
+
+
 ans = 0
 for line in sys.stdin:
-    try:
-        ans += int(line)
-    except:
-         ans += float(line)
-
-
+    line = line.rstrip()
+    ans += tonums(line)
 print(ans)
+
 
 
 
