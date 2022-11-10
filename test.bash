@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -xv
 # SPDX-FileCopyrrightText: 2022 Uchida shou
 # SPDX=License-Identifier: BSD-3-Clause
 
