@@ -1,5 +1,5 @@
 #!/bin/bash -xv
-# SPDX-FileCopyrightText: 2022 Shou Uchida
+# SPDX-FileCopyrightText: 2022 uchida shou
 # SPDX-License-Identifier: BSD-3-Clause
 　
 ng () {
