@@ -1,6 +1,6 @@
  name: test        
  on: push 
- jobs: strategy/matrix/python-versioin  
+ jobs: strategy/matrix/python-version  
    test:       
      runs-on: ubuntu-latest 
      strategy:
