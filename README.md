@@ -1,11 +1,14 @@
 # robosys2022
+こちらは千葉工業大学先進工学部未来ロボティクス学科2年ロボットシステム学で取り扱っているリポジトリです。
+___
+
 [![test](https://github.com/fwhdshkjfh/robosys202x/actions/workflows/test.yml/badge.svg)](https://github.com/fwhdshkjfh/robosys202x/actions/workflows/test.yml)
-
 ↑テスト結果を反映したバッジの画像が埋め込まれる。　標準入力から読み込んだ数字を足す。
-* バッジ: [Actions](https://github.com/fwhdshkjfh/robosys202x/actions)で実行されるワークフロー
+* バッジ: [Actions](https://github.com/fwhdshkjfh/robosys202x/actions)で実行されるワークフローの結果
+___
 
+# 
 
-# インストール方法
 
 $ git clone https://github.com/fwhdshkjfh/robosys202x.git
 
