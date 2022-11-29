@@ -11,8 +11,8 @@ ___
 
 # 本リポジトリの使用方法
 
-* 右側のcodeをクリック
-* Local-HTTPSのURLをコピー
+* 右側の`code`をクリック
+* `Local-HTTPS`のURLをコピー
 * リポジトリで作りたいディレクトリで次の操作
 
 ```$  git clone https://github.com/fwhdshkjfh/robosys2022.git```
