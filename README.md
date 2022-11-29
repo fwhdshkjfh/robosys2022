@@ -30,8 +30,7 @@ $ git clone https://github.com/fwhdshkjfh/robosys202x.git
 
   * © 2022 uchida shou
 
-  # 謝辞
-
+  
 
 
 
