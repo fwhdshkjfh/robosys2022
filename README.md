@@ -2,11 +2,11 @@
 こちらは千葉工業大学先進工学部未来ロボティクス学科2年ロボットシステム学で取り扱っているリポジトリです。
 ___
 
-[![test](https://github.com/fwhdshkjfh/robosys202x/actions/workflows/test.yml/badge.svg)](https://github.com/fwhdshkjfh/robosys202x/actions/workflows/test.yml)
+[![test](https://github.com/fwhdshkjfh/robosys2022/actions/workflows/test.yml/badge.svg)](https://github.com/fwhdshkjfh/robosys2022/actions/workflows/test.yml)
 
 ↑テスト結果を反映したバッジの画像が埋め込まれる。　標準入力から読み込んだ数字を足す。
 
-* バッジ: [Actions](https://github.com/fwhdshkjfh/robosys202x/actions)で実行されるワークフローの結果
+* バッジ: [Actions](https://github.com/fwhdshkjfh/robosys2022/actions)で実行されるワークフローの結果
 ___
 
 # 本リポジトリの使用方法
@@ -15,27 +15,25 @@ ___
 * Local-HTTPSのURLをコピー
 * リポジトリで作りたいディレクトリで次の操作
 
-```$ git clone https://github.com/fwhdshkjfh/robosys202x.git```
+```$  git clone https://github.com/fwhdshkjfh/robosys2022.git```
 
-```Cloning into 'robosys202x'...```
+```Cloning into 'robosys2022'...```
 
-```remote: Enumerating objects: 322, done.```
+```rremote: Enumerating objects: 337, done.```
 
-```remote: Counting objects: 100% (170/170), done.```
+```remote: Counting objects: 100% (6/6), done.```
 
-```remote: Compressing objects: 100% (83/83), done.```
+```remote: Total 337 (delta 5), reused 5 (delta 5), pack-reused 331```
 
-```remote: Total 322 (delta 77), reused 145 (delta 53), pack-reused 152```
+```Receiving objects: 100% (337/337), 33.59 KiB | 2.24 MiB/s, done.```
 
-```Receiving objects: 100% (322/322), 32.56 KiB | 2.96 MiB/s, done.```
-
-```Resolving deltas: 100% (149/149), done.```
+```Resolving deltas: 100% (162/162), done.```
 
 ```$ ls # ダウンロードされたフォルダを確認```
 
-```robosys202x```
+```robosys2022```
 
-* これで`robosys202x`がフォルダの中にあるスクリプトが全てダウンロードされた。
+* これで`robosys2022`がフォルダの中にあるスクリプトが全てダウンロードされた。
 
 ___
 
@@ -56,7 +54,7 @@ ___
 
       * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
   
-  * © 2022 Ryuichi Ueda 
+  * © 2022 uchida shou
 
 
   
