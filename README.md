@@ -3,14 +3,16 @@
 ___
 
 [![test](https://github.com/fwhdshkjfh/robosys202x/actions/workflows/test.yml/badge.svg)](https://github.com/fwhdshkjfh/robosys202x/actions/workflows/test.yml)
+
 ↑テスト結果を反映したバッジの画像が埋め込まれる。　標準入力から読み込んだ数字を足す。
+
 * バッジ: [Actions](https://github.com/fwhdshkjfh/robosys202x/actions)で実行されるワークフローの結果
 ___
 
-# 
+# 本リポジトリの使用方法
 
 
-$ git clone https://github.com/fwhdshkjfh/robosys202x.git
+$ ~~~git clone https://github.com/fwhdshkjfh/robosys202x.git~~~
 
 #  動作確認済み環境
 
