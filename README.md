@@ -11,8 +11,21 @@ ___
 
 # 本リポジトリの使用方法
 
+* 右側のcodeをクリック
+* Local-HTTPSのURLをコピー
+* リポジトリで作りたいディレクトリで次の操作
+`$ git clone https://github.com/fwhdshkjfh/robosys202x.git`
+`Cloning into 'robosys202x'...`
+`remote: Enumerating objects: 322, done.`
+`remote: Counting objects: 100% (170/170), done.`
+`remote: Compressing objects: 100% (83/83), done.`
+`remote: Total 322 (delta 77), reused 145 (delta 53), pack-reused 152`
+`Receiving objects: 100% (322/322), 32.56 KiB | 2.96 MiB/s, done.`
+`Resolving deltas: 100% (149/149), done.`
+`$ ls # ダウンロードされたフォルダを確認`
+`robosys202x`
 
-$ ~~~git clone https://github.com/fwhdshkjfh/robosys202x.git~~~
+$ git clone https://github.com/fwhdshkjfh/robosys202x.git
 
 #  動作確認済み環境
 
