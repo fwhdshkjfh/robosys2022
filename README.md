@@ -14,13 +14,9 @@
 # インストール方法
 $ git clone https://github.com/fwhdshkjfh/robosys202x.git
 
-
-
-
-
-
-
-
-
-#
+## 必要なソフトウェア
+Python 3.7～3.10
+## テスト環境
+* 
+ 
 
