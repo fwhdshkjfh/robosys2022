@@ -24,7 +24,7 @@ Receiving objects: 100% (337/337), 33.59 KiB | 2.24 MiB/s, done.
 Resolving deltas: 100% (162/162), done.
 $ ls # ダウンロードされたフォルダを確認
 robosys2022
-            ```
+```
 
 * これで`robosys2022`がフォルダの中にあるスクリプトが全てダウンロードされた。
 
