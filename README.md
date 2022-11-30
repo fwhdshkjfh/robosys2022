@@ -14,8 +14,8 @@ ___
 * 右側の`code`をクリック
 * `Local-HTTPS`のURLをコピー
 * リポジトリで作りたいディレクトリで次の操作
-
-```$  git clone https://github.com/fwhdshkjfh/robosys2022.git
+```
+$  git clone https://github.com/fwhdshkjfh/robosys2022.git
 Cloning into 'robosys2022'...
 rremote: Enumerating objects: 337, done.
 remote: Counting objects: 100% (6/6), done.
@@ -23,7 +23,8 @@ remote: Total 337 (delta 5), reused 5 (delta 5), pack-reused 331
 Receiving objects: 100% (337/337), 33.59 KiB | 2.24 MiB/s, done.
 Resolving deltas: 100% (162/162), done.
 $ ls # ダウンロードされたフォルダを確認
-robosys2022```
+robosys2022
+            ```
 
 * これで`robosys2022`がフォルダの中にあるスクリプトが全てダウンロードされた。
 
