@@ -1,25 +1,33 @@
 # robosys2022
+
+![test](https://github.com/ryuichiueda/robosys2022/actions/workflows/test.yml/badge.svg)
+# 本リポジトリについて
+
 こちらは千葉工業大学先進工学部未来ロボティクス学科2年ロボットシステム学で取り扱っているリポジトリです。
 ___
 
-# 本リポジトリの使用方法
+# 本リポジトリのインストール方法
 
 ```
 $  git clone https://github.com/fwhdshkjfh/robosys2022.git
 
-$ ls        #ダウンロードされたフォルダを確認
-
-robosys2022
-
-$ cd robosys2022
 ```
 ___
+# plusコマンド
 
-#  動作確認済み環境
+* 標準入力から読み込んだ数字を足す。
 
-* Python 3.7~3.10
+## 実行例
+```
+$ seq 10 | ./plus
+55
+```
 
-* Ubuntu 18.04.5
+
+# 使用環境
+
+* Ubuntu 18.04.5(動作確認済み)
+* Python3.7~3.10(動作確認済み)
 ___
 
 # LICENSE
