@@ -2,12 +2,8 @@
 こちらは千葉工業大学先進工学部未来ロボティクス学科2年ロボットシステム学で取り扱っているリポジトリです。
 ___
 
-[![test](https://github.com/fwhdshkjfh/robosys2022/actions/workflows/test.yml/badge.svg)](https://github.com/fwhdshkjfh/robosys2022/actions/workflows/test.yml)
 
-↑テスト結果を反映したバッジの画像が埋め込まれる。　標準入力から読み込んだ数字を足す。
 
-* バッジ: [Actions](https://github.com/fwhdshkjfh/robosys2022/actions)で実行されるワークフローの結果
-___
 
 # 本リポジトリの使用方法
 
@@ -16,17 +12,14 @@ ___
 * リポジトリで作りたいディレクトリで次の操作
 ```
 $  git clone https://github.com/fwhdshkjfh/robosys2022.git
-Cloning into 'robosys2022'...
-rremote: Enumerating objects: 337, done.
-remote: Counting objects: 100% (6/6), done.
-remote: Total 337 (delta 5), reused 5 (delta 5), pack-reused 331
-Receiving objects: 100% (337/337), 33.59 KiB | 2.24 MiB/s, done.
-Resolving deltas: 100% (162/162), done.
-$ ls # ダウンロードされたフォルダを確認
+
+$ ls        #ダウンロードされたフォルダを確認
+
 robosys2022
+
+$ cd robosys2022
 ```
 
-* これで`robosys2022`がフォルダの中にあるスクリプトが全てダウンロードされた。
 
 ___
 
