@@ -3,7 +3,7 @@
 ![test](https://github.com/ryuichiueda/robosys2022/actions/workflows/test.yml/badge.svg)
 # 本リポジトリについて
 
-こちらは千葉工業大学先進工学部未来ロボティクス学科2年ロボットシステム学で取り扱っているリポジトリです。
+ロボットシステム学で使用しているリポジトリです。
 ___
 
 # 本リポジトリのインストール方法
